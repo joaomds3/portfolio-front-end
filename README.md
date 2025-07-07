@@ -31,7 +31,19 @@ O site está hospedado gratuitamente no **GitHub Pages**, e pode ser acessado no
 🔗 [https://joaomds3.github.io/portfolio-front-end/](https://joaomds3.github.io/portfolio-front-end/)
 
 ## 📸 Capturas de tela
-Inclua aqui imagens do site funcionando no navegador (ex.: tela inicial, formulário, responsividade em celular, etc.)
+Mobile
+![WhatsApp Image 2025-07-06 at 21 29 31](https://github.com/user-attachments/assets/38f7c386-0e4e-48b5-8439-c63f456c7742)
+
+Main View
+![image](https://github.com/user-attachments/assets/e9b6478d-f1a4-4752-aea6-d8af8ef7c86c)
+
+![image](https://github.com/user-attachments/assets/870a7b62-2808-48af-b0af-712bcbbc9398)
+
+![image](https://github.com/user-attachments/assets/790b9d20-6cc6-40e0-82ad-d282e69bffe8)
+
+
+
+
 
 ---
 
